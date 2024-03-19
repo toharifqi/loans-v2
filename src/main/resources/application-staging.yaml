@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "staging"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to XBank accounts loans QA APIs"
+  contactDetails:
+    name: "Cyrano Marita - QA Lead"
+    email: "cyrano@xbank.com"
+  onCallSupport:
+    - (+62) 855-1234-3333
+    - (+62) 837-4444-2133

@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to XBank accounts loans prod APIs"
+  contactDetails:
+    name: "Pelias Sudhir - Product Owner"
+    email: "pelias@xbank.com"
+  onCallSupport:
+    - (+62) 855-5555-2333
+    - (+62) 837-6666-4323
